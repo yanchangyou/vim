@@ -10,6 +10,9 @@ set cursorline
 " 打开目录树
 map <C-n> :NERDTreeToggle<CR>
 
+" 关闭窗口
+nnoremap <C-C> :q<CR>
+
 " 窗口切换
 nnoremap <C-J> <C-W><C-J> "Ctrl-j to move down a split  
 nnoremap <C-K> <C-W><C-K> "Ctrl-k to move up a split  
