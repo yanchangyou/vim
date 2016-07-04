@@ -1,3 +1,5 @@
+" the vimrc config
+
 " 显示行数
 set number
 
