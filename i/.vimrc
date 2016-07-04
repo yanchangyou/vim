@@ -22,11 +22,15 @@ set showmatch
 " 高亮search命中的文本
 set hlsearch
 
-" 显示当前的行号列号：  
+" 显示当前的行号列号
 set ruler  
+
 " 在状态栏显示正在输入的命令  
 set showcmd  
 
 " 上下滚动，间隔顶部底部7行
 set so=7  
+
+" 粘贴，双引号前面添加重复
+set paste 
 
