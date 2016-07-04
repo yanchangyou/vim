@@ -4,9 +4,6 @@ set number
 " 语法高亮显示
 syntax on
 
-
-:set noai nosi
-
 " 行高亮 
 set cursorline 
 
@@ -22,13 +19,9 @@ nnoremap <C-H> <C-W><C-H> "Ctrl-h to move left a split
 " 括号配对情况
 set showmatch
 
-" 设置文内智能搜索提示
 " 高亮search命中的文本
 set hlsearch
 
-"==========================================  
-" status  
-"==========================================  
 " 显示当前的行号列号：  
 set ruler  
 " 在状态栏显示正在输入的命令  
