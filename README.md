@@ -2,7 +2,7 @@
 vim study,config and other
 
 file : .vimrc
-
+```
 " the vimrc config
 
 " 显示行数
@@ -39,3 +39,4 @@ set paste
 
 " 搜索忽略大小写
 set ic
+```
